@@ -1,12 +1,7 @@
-import java.util.Arrays;
-
+package course.lection1;
 
 public class Main {
-	
-	
 	public static void main(String[] args) {
-		
+		System.out.println("hello");
 	}
 }
-
-  
